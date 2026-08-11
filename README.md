@@ -38,7 +38,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashpacholi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF4500&text_color=c9d1d9" height="165" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpacholi&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF4500&fire=FF8C00&currStreakLabel=FF8C00" height="165" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=yashpacholi&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF4500&fire=FF8C00&currStreakLabel=FF8C00" height="165" alt="streak stats" />
 </div>
 
 <div align="center">
